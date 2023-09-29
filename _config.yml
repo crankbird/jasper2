@@ -69,13 +69,13 @@ feed:
 # or "master" otherwise
 safe: False
 lsi: False
-username: crankbird
-repo: jasper2-test
+username: jekyllt
+repo: jasper2
 branch: master
 relative_source: ../jasper2/
 destination: ../jasper2-pages/
-production_url:  https:/datastorageauthority.com
-source_url:  https://github.com/crankbird/jasper2-test/
+production_url:  https://jekyllt.github.io/jasper2/
+source_url:  https://github.com/jekyllt/jasper2/
 
 exclude:
   - assets/css
