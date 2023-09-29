@@ -1,20 +1,24 @@
-speeches:
-  name: speeches
-  description: Some of the greatest words ever spoken.
-  cover: assets/images/speeches.jpg
-fiction:
-  name: fiction
-  description: False
-  cover: False
-fables:
-  name: fables
-  description: A series of short stories that make you think.
-  cover: assets/images/fables.jpg
-getting-started:
-  name: getting-started
-  description: False
-  cover: False
 bigdata:
   name: bigdata
   description: Stuff about getting value from lots of data
   cover: assets/images/bigdata.jpg
+
+cloud:
+  name: cloud
+  description: Stuff about the cloud storage
+  cover: assets/images/fables.jpg
+
+datamanagement:
+  name: datamanagement
+  description: Stuff about the datamanagement
+  cover: assets/images/grapes.jpg
+
+personal:
+  name: personal
+  description: Stuff about the authors
+  cover: assets/images/design.jpg
+
+hardware:
+  name: hardware
+  description: Stuff about the hardware
+  cover: assets/images/hannah-cover.jpg
