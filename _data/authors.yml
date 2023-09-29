@@ -74,3 +74,14 @@ martin:
   facebook: False
   twitter: False
   cover: False
+ricky:
+  username: ricky
+  name: Ricky Martin
+  location: Sydney, Australia
+  url_full: False
+  url: False
+  bio: A very cranky bird indeed
+  picture: assets/images/crankbird.jpg
+  facebook: False
+  twitter: cranbird
+  cover: False
