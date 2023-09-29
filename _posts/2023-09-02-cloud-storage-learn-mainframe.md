@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: 'assets/images/datarealestate.jpg'
+cover: 'assets/images/advanced.jpg'
 navigation: true
 title: What cloud storage can learn from mainframes
 date: 2023-09-02 10:18:00
