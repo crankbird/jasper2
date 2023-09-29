@@ -4,7 +4,7 @@ current: post
 cover: 'assets/images/datarealestate.jpg'
 navigation: true
 title: Why Big Data is like Realestate
-date: 2023-09-30 10:18:00
+date: 2023-09-27 10:18:00
 tags: bigdata
 class: post-template
 subclass: 'post'
