@@ -1,9 +1,9 @@
 ---
 layout: post
 current: post
-cover: 'assets/images/piano.jpg'
+cover: 'assets/images/datarealestate.jpg'
 navigation: true
-title: Down The Rabbit Hole
+title: Why Big Data is like Realestate
 date: 2023-09-30 10:18:00
 tags: bigdata
 class: post-template
