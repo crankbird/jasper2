@@ -69,12 +69,12 @@ feed:
 safe: False
 lsi: False
 username: jekyllt
-repo: jasper2
+repo: jasper2-test
 branch: master
 relative_source: ../jasper2/
 destination: ../jasper2-pages/
-production_url:  https://jekyllt.github.io/jasper2/
-source_url:  https://github.com/jekyllt/jasper2/
+production_url:  https://crankbird.github.io/jasper2-test/
+source_url:  https://github.com/crankbird/jasper2-test/
 
 exclude:
   - assets/css
