@@ -68,7 +68,7 @@ Cloud is a little like the Hotel California: you might have the right to checkou
 
 Until you have a way of getting out of cloud as easily as you can get in, IT is probably going to find many reasons why the cloud is a fundamentally bad idea. That's why the notion of a private cloud or a hybrid cloud is so powerful.
 
-The Bottom Line
+#h3 The Bottom Line
 
 This conflict in the way business and IT think about risk needs to change.
 
