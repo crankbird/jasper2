@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="/tag/cloud/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2023-10-03T22:48:03+00:00</updated>
+  <id>/tag/cloud/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Data Storage Authority | </title>
+  
+
+  
+    <subtitle>A deep dive into data storage technology</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">What cloud storage can learn from mainframes</title>
+      <link href="/cloud-risks" rel="alternate" type="text/html" title="What cloud storage can learn from mainframes" />
+      <published>2023-09-27T10:18:00+00:00</published>
+      <updated>2023-09-27T10:18:00+00:00</updated>
+      <id>/cloud-risks</id>
+      <content type="html" xml:base="/cloud-risks">&lt;p&gt;The face of IT is changing forever, thanks to agile business practices, software-defined data centers, flash and cloud.&lt;/p&gt;
+
+&lt;p&gt;But before we can turn these technologies into business benefits, we need to change our thinking. The biggest change should be how we think about risk.&lt;/p&gt;
+
+&lt;p&gt;The implications are more obvious when moving to cloud computing than with any other area.
+Cloud Caution 2&lt;/p&gt;
+
+&lt;p&gt;I recently gave a presentation on the topic of cloud. During the Q&amp;amp;A session, an audience member said,&lt;/p&gt;
+
+&lt;p&gt;I can see how moving to the cloud would be easy for a small business, but you just can’t do this for a big business.&lt;/p&gt;
+
+&lt;p&gt;There was much nodding in agreement.&lt;/p&gt;
+
+&lt;p&gt;I was more than half expecting this, so I asked how many of the people in the audience did not have a Dropbox account. Only a few hands went up.&lt;/p&gt;
+
+&lt;p&gt;I then asked “How many people with a Dropbox account have never put any sensitive corporate data on that account?” Again, only a few hands went up.&lt;/p&gt;
+
+&lt;p&gt;There was some nervous laughter, but I’d made my point: Every single company represented in that room had already begun moving their company to cloud. They just didn’t all know it yet.&lt;/p&gt;
+
+&lt;p&gt;There are three major challenges here, and they’re all in some way to do with risk:&lt;/p&gt;
+
+&lt;h3 id=&quot;1-too-easy-a-transition&quot;&gt;1. Too Easy A Transition?&lt;/h3&gt;
+
+&lt;p&gt;In some respects, the challenge with making the transition to the cloud is that it is almost too easy.&lt;/p&gt;
+
+&lt;p&gt;But that’s the point: It’s supposed to be easy. Here’s why…&lt;/p&gt;
+
+&lt;p&gt;In the past, purchasing an IT asset typically involved large capital purchases, with long times to value. But the risks of making a return on that investment rested almost entirely with the customer: When the million dollar check was written, the sales team celebrated while the customers quietly thought to themselves, “This had better work, or my job is toast”.&lt;/p&gt;
+
+&lt;p&gt;To reduce the risk of making the wrong decision, you either placed an immense amount of trust in your vendor, or spent a lot of time and effort in requirement gathering, planning and contract negotiations. You’d also probably buy something massively overpowered, “just in case.”&lt;/p&gt;
+
+&lt;p&gt;But none of these mitigations will completely address the risks, and all of them will kill business agility and profitability.&lt;/p&gt;
+
+&lt;p&gt;Cloud disrupts the old way of buying IT, because it completely changes the risk profile. Cloud computing is inherently elastic and pay-as-you-go, so if you’ve outgrown your cloud service or it’s not meeting its SLAs, then choose another cloud vendor!&lt;/p&gt;
+
+&lt;p&gt;The financial risk of moving into the cloud is now so small that it becomes incredibly attractive, compared to the risks of buying IT the old way. That’s what I call a nice problem to have.&lt;/p&gt;
+
+&lt;h3 id=&quot;2-risk-mitigation&quot;&gt;2. Risk Mitigation&lt;/h3&gt;
+
+&lt;p&gt;The risk isn’t that the cloud service costs too much, or isn’t good enough: The risk is, “what happens when things go wrong”.&lt;/p&gt;
+
+&lt;p&gt;Business people tend to think more about the benefits of technology, but IT lives in a world of risk mitigation. Procedural and policy frameworks are reinforced by purchasing hardware with lots of headroom, implementing backups, and doing disaster-recovery testing. It might be expensive and hard to change, but it works and supports the business better than most business people appreciate.&lt;/p&gt;
+
+&lt;p&gt;Building that kind of reliable IT means preventing as many problems as possible. So, when IT infrastructure professionals are asked to analyze the feasibility of cloud environments what they see is a lot of eggs into a single basket built from commodity components that are glued together by software that is constantly changing.&lt;/p&gt;
+
+&lt;p&gt;Doing this in a datacenter under their own control would be unacceptably risky, doing it in someone else’s seems like insanity. Which brings us to…&lt;/p&gt;
+
+&lt;h3 id=&quot;3-no-backup-plan&quot;&gt;3. No Backup Plan&lt;/h3&gt;
+
+&lt;p&gt;Given the way IT looks at risk, it would be easy to list all the reasons people use when they say you can’t move your business to the cloud: privacy concerns, data security, data sovereignty, backup, performance and reliability—just to name a few.&lt;/p&gt;
+
+&lt;p&gt;But the often unstated reason is that there isn’t a readily available “Plan B.” If you stop paying for your cloud storage, that data disappears. And losing irreplaceable data is about the worst thing that can happen in IT.&lt;/p&gt;
+
+&lt;p&gt;Cloud is a little like the Hotel California: you might have the right to checkout any time you like, but if you can’t easily move your data back to your data center or another cloud provider, you might never be able to leave. IT has learned many hard lessons about being locked in to technologies you can’t directly control.&lt;/p&gt;
+
+&lt;p&gt;Until you have a way of getting out of cloud as easily as you can get in, IT is probably going to find many reasons why the cloud is a fundamentally bad idea. That’s why the notion of a private cloud or a hybrid cloud is so powerful.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-bottom-line&quot;&gt;The Bottom Line&lt;/h2&gt;
+
+&lt;p&gt;This conflict in the way business and IT think about risk needs to change.&lt;/p&gt;
+
+&lt;p&gt;Your IT department and your vendors must address your need to reduce purchasing risk, and improve time to value. But this is a two-way street: There are risks that the business never sees, because IT does such a good job at making sure the business is never exposed to them.&lt;/p&gt;
+
+&lt;p&gt;So take the time to understand the problems that IT’s risk aversion save you from every day. A constructive dialog about the risks across business and IT can help find creative solutions and quell the irrational fears—and the roadblocks they create.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Ricky Martin</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="cloud" />
+      
+        <category term="datamanagement" />
+      
+
+      
+        <summary type="html">The face of IT is changing forever, thanks to agile business practices, software-defined data centers, flash and cloud.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">First Party Cloud Storage vs Marketplace 3rd Party</title>
+      <link href="/native-vs-first-party" rel="alternate" type="text/html" title="First Party Cloud Storage vs Marketplace 3rd Party" />
+      <published>2023-09-14T10:18:00+00:00</published>
+      <updated>2023-09-14T10:18:00+00:00</updated>
+      <id>/native-vs-first-party</id>
+      <content type="html" xml:base="/native-vs-first-party">&lt;h4 id=&quot;tldr&quot;&gt;TL;DR&lt;/h4&gt;
+
+&lt;p&gt;This blog outlines the differences between genuine first-party services and so called “native” third-party cloud offerings. First-party services provide unparalleled integration, superior reliability, robust security, advanced scalability, and fast support. They also benefit from superior scalability and innovative features. While third-party “native” cloud marketplace offerings can be valuable tools, first-party cloud services provide a more solid foundation for businesses to thrive in this data-driven era.*  A Deep Dive into First-Party Cloud Services: Why They Outshine “Native” Marketplace Offerings&lt;/p&gt;
+
+&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;With the proliferation of digital technology and the subsequent rise in data creation, cloud services have become indispensable to our interconnected world. They offer scalable, reliable, and cost-effective alternatives to on-premises systems, prompting businesses across all industries to embrace the cloud. Even though third-party marketplace offerings such as NetApp’s Cloud Volumes ONTAP can offer unique benefits, many customers prefer first-party services designed, implemented, and managed directly by the cloud providers over third-party offerings. This may be why some marketplace offerings are beginning to market themselves as “native” solutions to blur the lines between these two, quite different offerings. This blog outlines some of the differences between genuine first-party services and so called “native” third party cloud offerings.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-simplicity-of-unparalleled-integration&quot;&gt;The Simplicity of Unparalleled Integration&lt;/h2&gt;
+
+&lt;p&gt;First-party cloud services provide seamless integration across various other primary cloud vendor services. This ensures an easy, flawless fit within the ecosystem. Compare, for example, Azure NetApp Files (ANF) and NetApp’s Cloud Volumes ONTAP (CVO). Both use ONTAP as the underlying operating system, providing higher performance, higher availability, and superior functionality compared to similar services. Only ANF, however, is supported as a supplemental datastore for the Azure VMware Solution. Likewise, SAP HANA is fully qualified in Azure to run on top of ANF but not CVO. The tight integration of first-party services leads to higher efficiency workflows, superior performance, and a more unified experience. Third-party marketplace offerings, conversely, can involve additional testing and qualification to overcome potential compatibility and performance issues. By using first-party services, companies can leverage the significant ongoing integration and qualification work by the likes of Microsoft, as shown here &lt;a href=&quot;https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-solution-architectures&quot;&gt;https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-solution-architectures&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;easy-security-and-compliance&quot;&gt;Easy Security and Compliance&lt;/h2&gt;
+
+&lt;p&gt;Regarding data security and compliance, first-party services have a clear edge. The reason is twofold: These service providers are vested in maintaining the highest security standards to protect their reputation and ensure customer trust. Second, they have a profound understanding of the architecture and design of their systems, enabling them to build robust security measures right from the ground up. While third-party vendors may also offer strong security measures, they may lack an in-depth understanding of the intricacies of the larger ecosystem that first-party providers possess.&lt;/p&gt;
+
+&lt;h2 id=&quot;support-and-service-level-agreements-slas&quot;&gt;Support and Service Level Agreements (SLAs)&lt;/h2&gt;
+
+&lt;p&gt;First-party cloud services typically offer better support and more comprehensive service level agreements (SLAs) than similar marketplace offerings. Since public cloud providers have complete control and knowledge of their products, they can provide faster resolutions to technical issues and more dependable uptime guarantees. While they may offer good support, third-party vendors might be more limited in their ability to diagnose and resolve tricky problems due to their reliance on the underlying first-party services.&lt;/p&gt;
+
+&lt;p&gt;Another significant advantage of first-party cloud services is consistency and reliability. These services are built, maintained, and supported by a single entity, ensuring uniformity and stability across the entire service stack. Changes and updates are thoughtfully planned, with minimal disruption to users. Third-party “native” cloud services, however, can be subject to more frequent changes, which might result in inconsistencies and potential disruptions.&lt;/p&gt;
+
+&lt;h2 id=&quot;better-savings-and-sustainable-innovation&quot;&gt;Better Savings and Sustainable Innovation&lt;/h2&gt;
+
+&lt;p&gt;First-party cloud services are inherently able to benefit from superior scalability and innovative features. They continually invest in research and development to bring innovative technologies to their customers, so &lt;a href=&quot;https://www.netapp.com/blog/azure-netapp-files-general-availability/&quot;&gt;Azure&lt;/a&gt;, &lt;a href=&quot;https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-fsx-netapp-ontap/&quot;&gt;AWS&lt;/a&gt; and Google all choose NetApp to help accelerate their innovation. This broad approach includes API standardisation, monitoring, and observability backed by AI and machine learning capabilities, to name a few. While some third-party vendors also provide these services, they are often reliant on their home-built infrastructure and, as a result, may not always be able to offer the latest features or handle rapid scaling requirements as effectively.&lt;/p&gt;
+
+&lt;p&gt;First-party services can also take advantage of deep hardware optimisation in the storage, computing, and networking infrastructure that marketplace offerings higher up in the cloud stack cannot access. These optimisations are often reflected in lower power consumption, a significant concern for Hyperscaler Cloud to lower their costs and improve their sustainability, which in turn are reflected in better prices and superior consumption models.&lt;/p&gt;
+
+&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;While third-party “native” cloud marketplace offerings can be valuable tools, first-party cloud services provide unparalleled integration, superior reliability, robust security, advanced scalability, and fast support. As businesses continue to navigate the digital landscape, selecting the right cloud service is a critical decision that can have a sustainable impact on their growth and success. First-party cloud services provide a solid foundation for businesses to thrive in this data-driven era.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Ricky Martin</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="cloud" />
+      
+
+      
+        <summary type="html">TL;DR This blog outlines the differences between genuine first-party services and so called “native” third-party cloud offerings. First-party services provide unparalleled integration, superior reliability, robust security, advanced scalability, and fast support. They also benefit from superior scalability and innovative features. While third-party “native” cloud marketplace offerings can be valuable tools, first-party cloud services provide a more solid foundation for businesses to thrive in this data-driven era.* A Deep Dive into First-Party Cloud Services: Why They Outshine “Native” Marketplace Offerings Introduction With the proliferation of digital technology and the subsequent rise in data creation, cloud services have become indispensable to our interconnected world. They offer scalable, reliable, and cost-effective alternatives to on-premises systems, prompting businesses across all industries to embrace the cloud. Even though third-party marketplace offerings such as NetApp’s Cloud Volumes ONTAP can offer unique benefits, many customers prefer first-party services designed, implemented, and managed directly by the cloud providers over third-party offerings. This may be why some marketplace offerings are beginning to market themselves as “native” solutions to blur the lines between these two, quite different offerings. This blog outlines some of the differences between genuine first-party services and so called “native” third party cloud offerings. The Simplicity of Unparalleled Integration First-party cloud services provide seamless integration across various other primary cloud vendor services. This ensures an easy, flawless fit within the ecosystem. Compare, for example, Azure NetApp Files (ANF) and NetApp’s Cloud Volumes ONTAP (CVO). Both use ONTAP as the underlying operating system, providing higher performance, higher availability, and superior functionality compared to similar services. Only ANF, however, is supported as a supplemental datastore for the Azure VMware Solution. Likewise, SAP HANA is fully qualified in Azure to run on top of ANF but not CVO. The tight integration of first-party services leads to higher efficiency workflows, superior performance, and a more unified experience. Third-party marketplace offerings, conversely, can involve additional testing and qualification to overcome potential compatibility and performance issues. By using first-party services, companies can leverage the significant ongoing integration and qualification work by the likes of Microsoft, as shown here https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-solution-architectures Easy Security and Compliance Regarding data security and compliance, first-party services have a clear edge. The reason is twofold: These service providers are vested in maintaining the highest security standards to protect their reputation and ensure customer trust. Second, they have a profound understanding of the architecture and design of their systems, enabling them to build robust security measures right from the ground up. While third-party vendors may also offer strong security measures, they may lack an in-depth understanding of the intricacies of the larger ecosystem that first-party providers possess. Support and Service Level Agreements (SLAs) First-party cloud services typically offer better support and more comprehensive service level agreements (SLAs) than similar marketplace offerings. Since public cloud providers have complete control and knowledge of their products, they can provide faster resolutions to technical issues and more dependable uptime guarantees. While they may offer good support, third-party vendors might be more limited in their ability to diagnose and resolve tricky problems due to their reliance on the underlying first-party services. Another significant advantage of first-party cloud services is consistency and reliability. These services are built, maintained, and supported by a single entity, ensuring uniformity and stability across the entire service stack. Changes and updates are thoughtfully planned, with minimal disruption to users. Third-party “native” cloud services, however, can be subject to more frequent changes, which might result in inconsistencies and potential disruptions. Better Savings and Sustainable Innovation First-party cloud services are inherently able to benefit from superior scalability and innovative features. They continually invest in research and development to bring innovative technologies to their customers, so Azure, AWS and Google all choose NetApp to help accelerate their innovation. This broad approach includes API standardisation, monitoring, and observability backed by AI and machine learning capabilities, to name a few. While some third-party vendors also provide these services, they are often reliant on their home-built infrastructure and, as a result, may not always be able to offer the latest features or handle rapid scaling requirements as effectively. First-party services can also take advantage of deep hardware optimisation in the storage, computing, and networking infrastructure that marketplace offerings higher up in the cloud stack cannot access. These optimisations are often reflected in lower power consumption, a significant concern for Hyperscaler Cloud to lower their costs and improve their sustainability, which in turn are reflected in better prices and superior consumption models. Summary While third-party “native” cloud marketplace offerings can be valuable tools, first-party cloud services provide unparalleled integration, superior reliability, robust security, advanced scalability, and fast support. As businesses continue to navigate the digital landscape, selecting the right cloud service is a critical decision that can have a sustainable impact on their growth and success. First-party cloud services provide a solid foundation for businesses to thrive in this data-driven era.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">What cloud storage can learn from mainframes</title>
+      <link href="/cloud-storage-learn-mainframe" rel="alternate" type="text/html" title="What cloud storage can learn from mainframes" />
+      <published>2023-09-02T10:18:00+00:00</published>
+      <updated>2023-09-02T10:18:00+00:00</updated>
+      <id>/cloud-storage-learn-mainframe</id>
+      <content type="html" xml:base="/cloud-storage-learn-mainframe">&lt;h2 id=&quot;is-mainframe-really-relevant-to-cloud-&quot;&gt;Is mainframe really relevant to cloud ?&lt;/h2&gt;
+
+&lt;p&gt;What can the experience of managing IBM mainframes teach us about designing storage for public or private cloud computing? Plenty, it turns out…&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/bear.jpg&quot; alt=&quot;An image test&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In my previous post, Designing Cloud Storage? Ditch the LUN!, I pointed out the challenges of using LUNs for virtual and cloud storage environments that need to scale.&lt;/p&gt;
+
+&lt;p&gt;That post, and my thinking around storage management in general, were both influenced by a nine-year-old blog post by John Tyrrel: The Next Step In Virtualization. When Tyrell wrote that, the next step in virtualization was to ditch the LUN, virtualization was still pretty cutting edge. Yet, here we are, almost a decade later, and we’re still using LUNs as the storage container for most server virtualization infrastructures.&lt;/p&gt;
+
+&lt;p&gt;The article was way ahead of its time, and it includes one of my favorite quotes about LUNs (if you can have such a thing):&lt;/p&gt;
+
+&lt;p&gt;If your business has the potential for real growth, the LUN becomes a major inhibitor in your path. On top of that, the LUN is just plain nasty, and your mother definitely would not approve of you using it.
+Aside from pithy quotes, the article contained two points that convinced me he was right.&lt;/p&gt;
+
+&lt;p&gt;The first was this observation, from studies conducted by IBM in early-1980s mainframe environments:&lt;/p&gt;
+
+&lt;p&gt;There was a one-to-one correspondence between the number of islands of storage to manage and the number of space failures, performance bottlenecks, job restarts/reruns, and the number of people to manage the storage.
+In much the same way, each additional LUN becomes a new island of storage to manage.&lt;/p&gt;
+
+&lt;p&gt;The second was that moving to an advanced, pool-based method of allocating storage resulted in a 10,000x improvement in storage management productivity. This wasn’t a funky marketing number pulled out of thin air, but the real, measured experience of what happened when they stopped using storage management techniques that look disturbingly like the LUN-based practices that most IT shops still use.&lt;/p&gt;
+
+&lt;p&gt;This isn’t to say that that Fibre channel is bad, or that block-based storage is inherently evil. For example, Ceph’s RBD is a block device built on top of its RADOS object store. It provides snapshots, copy-on-write cloning, and a bunch of other cool features, but this isn’t achieved by being limited to LUNs.&lt;/p&gt;
+
+&lt;p&gt;A well designed file system—or object based storage repository like RADOS—provides a foundation for software defined storage containers that’s much more flexible than LUNs. This is because the containers are designed to be completely separated from the underlying hardware. When compared to a LUN, they’re about as close to “magical” as storage gets.&lt;/p&gt;
+
+&lt;p&gt;A case in point: A storage array that can handle 100,000 LUNs is a very rare (and expensive) thing, whereas a consumer-grade NAS device you can buy at a local computer store for as little as $100 can easily store many times that number of virtual-machine containers. Additionally, the amount of training required to manage a filesystem with 100,000 files is trivial in comparison to the training required to manage a SAN capable of storing 100,000 LUNS.&lt;/p&gt;
+
+&lt;p&gt;Regardless of whether you are using open source systems like RBD, or various proprietary implementations of flexible volumes, these magic, non-LUN storage containers provides data storage that match the needs of highly virtualized infrastructures. For example:&lt;/p&gt;
+
+&lt;p&gt;Leverage a data fabric to simplify and streamline data management
+SponsoredPost Sponsored by HPE&lt;/p&gt;
+
+&lt;p&gt;Leverage a data fabric to simplify and streamline data management&lt;/p&gt;
+
+&lt;p&gt;Then capitalize on real-time insights for innovation and growth&lt;/p&gt;
+
+&lt;p&gt;When you need a new one you just give it a name, a size, and point it at the physical pool you want it to start its life in. A second later, and you’re done.
+Unlike LUNs they’re elastic: If you got the size wrong, you can grow them, or shrink them. In some implementations, you can even have that happen for you automatically, as space is consumed or released by applications over time.
+You can reserve space for them, or you can provision them completely “thin”.
+You can set and change quality-of-service performance and capacity policies for them.
+You can copy them or move them to different physical pool.
+You can set backup policies for them and back them up and restore them.
+In the better implementations, every one of those operations is instantaneous, no matter how big or how busy the containers may be, and every one of those things can be done from a GUI, a command line, or even programmatically via an API or shell script.&lt;/p&gt;
+
+&lt;p&gt;To be sure, in some of the more advanced arrays, a number of these things can be done with LUNs, but those arrays all use something that looks and smells like lot like a filesystem. The problem is this: By using a LUN as the storage container presented to the application, they miss the opportunity to exploit the full power of the underlying data store, and the complexity of LUN management becomes almost impossible to deal with at large scale.&lt;/p&gt;
+
+&lt;p&gt;If the storage industry really wants to help enterprise customers make the transition to cloud-based infrastructure, it’s time we learned some lessons from our mainframe predecessors.&lt;/p&gt;
+
+&lt;p&gt;When designing storage for private or public clouds, it’s time to go beyond just giving the server infrastructure a bunch of disks at the end of a network in the form of a LUN.&lt;/p&gt;
+
+&lt;p&gt;The time has come to ditch the LUN!&lt;/p&gt;
+
+&lt;p&gt;from - &lt;a href=&quot;https://www.computerworld.com/article/2475123/a-better-way-to-design-cloud-storage--learn-from-mainframes.html&quot;&gt;https://www.computerworld.com/article/2475123/a-better-way-to-design-cloud-storage--learn-from-mainframes.html&lt;/a&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Ricky Martin</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="cloud" />
+      
+        <category term="datamanagement" />
+      
+
+      
+        <summary type="html">Is mainframe really relevant to cloud ?</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> - Articles</title>
+    <description>A deep dive into data storage technology</description>
+    <link>
+    </link>
+    
+      
+      <item>
+        <title>Why Big Data is like Realestate</title>
+        
+          <description>&lt;p&gt;Your business’s data is growing—exponentially. But your competitiveness depends on your ability to gather, store and get value from that “big” data.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Wed, 27 Sep 2023 10:18:00 +0000</pubDate>
+        <link>
+        /storage-like-realestate</link>
+        <guid isPermaLink="true">/storage-like-realestate</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>What cloud storage can learn from mainframes</title>
+        
+          <description>&lt;p&gt;The face of IT is changing forever, thanks to agile business practices, software-defined data centers, flash and cloud.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Wed, 27 Sep 2023 10:18:00 +0000</pubDate>
+        <link>
+        /cloud-risks</link>
+        <guid isPermaLink="true">/cloud-risks</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Scale up vs Scale out</title>
+        
+          <description>&lt;p&gt;Your business’s data is growing—exponentially. But your competitiveness depends on your ability to gather, store and get value from that “big” data.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Wed, 20 Sep 2023 10:18:00 +0000</pubDate>
+        <link>
+        /scale-up-scale-out</link>
+        <guid isPermaLink="true">/scale-up-scale-out</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>First Party Cloud Storage vs Marketplace 3rd Party</title>
+        
+          <description>&lt;h4 id=&quot;tldr&quot;&gt;TL;DR&lt;/h4&gt;
+
+&lt;p&gt;This blog outlines the differences between genuine first-party services and so called “native” third-party cloud offerings. First-party services provide unparalleled integration, superior reliability, robust security, advanced scalability, and fast support. They also benefit from superior scalability and innovative features. While third-party “native” cloud marketplace offerings can be valuable tools, first-party cloud services provide a more solid foundation for businesses to thrive in this data-driven era.*  A Deep Dive into First-Party Cloud Services: Why They Outshine “Native” Marketplace Offerings&lt;/p&gt;
+
+&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;With the proliferation of digital technology and the subsequent rise in data creation, cloud services have become indispensable to our interconnected world. They offer scalable, reliable, and cost-effective alternatives to on-premises systems, prompting businesses across all industries to embrace the cloud. Even though third-party marketplace offerings such as NetApp’s Cloud Volumes ONTAP can offer unique benefits, many customers prefer first-party services designed, implemented, and managed directly by the cloud providers over third-party offerings. This may be why some marketplace offerings are beginning to market themselves as “native” solutions to blur the lines between these two, quite different offerings. This blog outlines some of the differences between genuine first-party services and so called “native” third party cloud offerings.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-simplicity-of-unparalleled-integration&quot;&gt;The Simplicity of Unparalleled Integration&lt;/h2&gt;
+
+&lt;p&gt;First-party cloud services provide seamless integration across various other primary cloud vendor services. This ensures an easy, flawless fit within the ecosystem. Compare, for example, Azure NetApp Files (ANF) and NetApp’s Cloud Volumes ONTAP (CVO). Both use ONTAP as the underlying operating system, providing higher performance, higher availability, and superior functionality compared to similar services. Only ANF, however, is supported as a supplemental datastore for the Azure VMware Solution. Likewise, SAP HANA is fully qualified in Azure to run on top of ANF but not CVO. The tight integration of first-party services leads to higher efficiency workflows, superior performance, and a more unified experience. Third-party marketplace offerings, conversely, can involve additional testing and qualification to overcome potential compatibility and performance issues. By using first-party services, companies can leverage the significant ongoing integration and qualification work by the likes of Microsoft, as shown here &lt;a href=&quot;https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-solution-architectures&quot;&gt;https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-solution-architectures&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;easy-security-and-compliance&quot;&gt;Easy Security and Compliance&lt;/h2&gt;
+
+&lt;p&gt;Regarding data security and compliance, first-party services have a clear edge. The reason is twofold: These service providers are vested in maintaining the highest security standards to protect their reputation and ensure customer trust. Second, they have a profound understanding of the architecture and design of their systems, enabling them to build robust security measures right from the ground up. While third-party vendors may also offer strong security measures, they may lack an in-depth understanding of the intricacies of the larger ecosystem that first-party providers possess.&lt;/p&gt;
+
+&lt;h2 id=&quot;support-and-service-level-agreements-slas&quot;&gt;Support and Service Level Agreements (SLAs)&lt;/h2&gt;
+
+&lt;p&gt;First-party cloud services typically offer better support and more comprehensive service level agreements (SLAs) than similar marketplace offerings. Since public cloud providers have complete control and knowledge of their products, they can provide faster resolutions to technical issues and more dependable uptime guarantees. While they may offer good support, third-party vendors might be more limited in their ability to diagnose and resolve tricky problems due to their reliance on the underlying first-party services.&lt;/p&gt;
+
+&lt;p&gt;Another significant advantage of first-party cloud services is consistency and reliability. These services are built, maintained, and supported by a single entity, ensuring uniformity and stability across the entire service stack. Changes and updates are thoughtfully planned, with minimal disruption to users. Third-party “native” cloud services, however, can be subject to more frequent changes, which might result in inconsistencies and potential disruptions.&lt;/p&gt;
+
+&lt;h2 id=&quot;better-savings-and-sustainable-innovation&quot;&gt;Better Savings and Sustainable Innovation&lt;/h2&gt;
+
+&lt;p&gt;First-party cloud services are inherently able to benefit from superior scalability and innovative features. They continually invest in research and development to bring innovative technologies to their customers, so &lt;a href=&quot;https://www.netapp.com/blog/azure-netapp-files-general-availability/&quot;&gt;Azure&lt;/a&gt;, &lt;a href=&quot;https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-fsx-netapp-ontap/&quot;&gt;AWS&lt;/a&gt; and Google all choose NetApp to help accelerate their innovation. This broad approach includes API standardisation, monitoring, and observability backed by AI and machine learning capabilities, to name a few. While some third-party vendors also provide these services, they are often reliant on their home-built infrastructure and, as a result, may not always be able to offer the latest features or handle rapid scaling requirements as effectively.&lt;/p&gt;
+
+&lt;p&gt;First-party services can also take advantage of deep hardware optimisation in the storage, computing, and networking infrastructure that marketplace offerings higher up in the cloud stack cannot access. These optimisations are often reflected in lower power consumption, a significant concern for Hyperscaler Cloud to lower their costs and improve their sustainability, which in turn are reflected in better prices and superior consumption models.&lt;/p&gt;
+
+&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;While third-party “native” cloud marketplace offerings can be valuable tools, first-party cloud services provide unparalleled integration, superior reliability, robust security, advanced scalability, and fast support. As businesses continue to navigate the digital landscape, selecting the right cloud service is a critical decision that can have a sustainable impact on their growth and success. First-party cloud services provide a solid foundation for businesses to thrive in this data-driven era.&lt;/p&gt;
+</description>
+        
+        <pubDate>Thu, 14 Sep 2023 10:18:00 +0000</pubDate>
+        <link>
+        /native-vs-first-party</link>
+        <guid isPermaLink="true">/native-vs-first-party</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>What cloud storage can learn from mainframes</title>
+        
+          <description>&lt;h2 id=&quot;is-mainframe-really-relevant-to-cloud-&quot;&gt;Is mainframe really relevant to cloud ?&lt;/h2&gt;
+
+</description>
+        
+        <pubDate>Sat, 02 Sep 2023 10:18:00 +0000</pubDate>
+        <link>
+        /cloud-storage-learn-mainframe</link>
+        <guid isPermaLink="true">/cloud-storage-learn-mainframe</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>About the Author</title>
+        
+          <description>&lt;p&gt;Hi there! I’m Ricky Martin in my day job, I am the Director of Customer Advocacy and Strategic Trends at NetApp and I am committed to empowering our customers, partners, and stakeholders. My approach begins with active listening, enabling me to gain valuable insights into their unique needs and challenges. Leveraging my extensive experience, comprehensive research, and collaborations with industry leaders, I share invaluable insights that drive well-informed decision-making.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Fri, 01 Sep 2023 10:18:00 +0000</pubDate>
+        <link>
+        /about-the-author</link>
+        <guid isPermaLink="true">/about-the-author</guid>
+      </item>
+      
+    
+  </channel>
+</rss>
