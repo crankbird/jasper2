@@ -15,7 +15,7 @@ author: ricky
 
 What can the experience of managing IBM mainframes teach us about designing storage for public or private cloud computing? Plenty, it turns out...
 
-![An image test](assets/images/bear.png)
+![An image test](/assets/images/bear.jpg)
 
 In my previous post, Designing Cloud Storage? Ditch the LUN!, I pointed out the challenges of using LUNs for virtual and cloud storage environments that need to scale.
 
