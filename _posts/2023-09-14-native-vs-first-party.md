@@ -11,7 +11,7 @@ subclass: 'post'
 author: ricky
 ---
 
-## TL;DR
+#### TL;DR
 
 This blog outlines the differences between genuine first-party services and so called “native” third-party cloud offerings. First-party services provide unparalleled integration, superior reliability, robust security, advanced scalability, and fast support. They also benefit from superior scalability and innovative features. While third-party “native” cloud marketplace offerings can be valuable tools, first-party cloud services provide a more solid foundation for businesses to thrive in this data-driven era.*  A Deep Dive into First-Party Cloud Services: Why They Outshine “Native” Marketplace Offerings
 
