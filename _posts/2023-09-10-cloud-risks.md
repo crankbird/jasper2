@@ -32,7 +32,7 @@ There was some nervous laughter, but I'd made my point: Every single company rep
 
 There are three major challenges here, and they're all in some way to do with risk:
 
-1. Too Easy A Transition?
+### 1. Too Easy A Transition?
 
 In some respects, the challenge with making the transition to the cloud is that it is almost too easy.
 
@@ -48,7 +48,7 @@ Cloud disrupts the old way of buying IT, because it completely changes the risk 
 
 The financial risk of moving into the cloud is now so small that it becomes incredibly attractive, compared to the risks of buying IT the old way. That's what I call a nice problem to have.
 
-2. Risk Mitigation
+### 2. Risk Mitigation
 
 The risk isn’t that the cloud service costs too much, or isn’t good enough: The risk is, “what happens when things go wrong”.
 
@@ -58,7 +58,7 @@ Building that kind of reliable IT means preventing as many problems as possible.
 
 Doing this in a datacenter under their own control would be unacceptably risky, doing it in someone else’s seems like insanity. Which brings us to...
 
-3. No Backup Plan
+### 3. No Backup Plan
 
 Given the way IT looks at risk, it would be easy to list all the reasons people use when they say you can’t move your business to the cloud: privacy concerns, data security, data sovereignty, backup, performance and reliability—just to name a few.
 
@@ -68,7 +68,7 @@ Cloud is a little like the Hotel California: you might have the right to checkou
 
 Until you have a way of getting out of cloud as easily as you can get in, IT is probably going to find many reasons why the cloud is a fundamentally bad idea. That's why the notion of a private cloud or a hybrid cloud is so powerful.
 
-#h3 The Bottom Line
+## The Bottom Line
 
 This conflict in the way business and IT think about risk needs to change.
 

@@ -11,7 +11,7 @@ subclass: 'post'
 author: ricky
 ---
 
-# Test Heading
+## Is mainframe management really relevant to cloud ?
 
 What can the experience of managing IBM mainframes teach us about designing storage for public or private cloud computing? Plenty, it turns out...
 
