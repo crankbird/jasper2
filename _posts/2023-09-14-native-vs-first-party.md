@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: 'assets/images/fables.jpg'
 navigation: true
-title: WFirst Party Cloud Storage vs Marketplace 3rd Party
+title: First Party Cloud Storage vs Marketplace 3rd Party
 date: 2023-09-14 10:18:00
 tags: cloud
 class: post-template
